@@ -1,0 +1,28 @@
+[0.011s] Invoking command in '/home/devrobot/hosbot_dev_ws/build/hosbot_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devrobot/hosbot_dev_ws/build/hosbot_pkg -- -j4 -l4
+[0.104s] Invoked command in '/home/devrobot/hosbot_dev_ws/build/hosbot_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devrobot/hosbot_dev_ws/build/hosbot_pkg -- -j4 -l4
+[0.154s] Invoking command in '/home/devrobot/hosbot_dev_ws/build/hosbot_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devrobot/hosbot_dev_ws/build/hosbot_pkg
+[0.165s] -- Install configuration: ""
+[0.165s] -- Execute custom install script
+[0.166s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/config/view_bot.rviz
+[0.166s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/description/gazebo_control.xacro
+[0.167s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/description/inertial_macros.xacro
+[0.167s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/description/robot.urdf.xacro
+[0.167s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/description/robot_core.xacro
+[0.167s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/launch/launch_sim.launch.py
+[0.168s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/launch/rsp.launch.py
+[0.168s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/ament_index/resource_index/package_run_dependencies/hosbot_pkg
+[0.168s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/ament_index/resource_index/parent_prefix_path/hosbot_pkg
+[0.169s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/environment/ament_prefix_path.sh
+[0.169s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/environment/ament_prefix_path.dsv
+[0.169s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/environment/path.sh
+[0.170s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/environment/path.dsv
+[0.170s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/local_setup.bash
+[0.170s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/local_setup.sh
+[0.170s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/local_setup.zsh
+[0.171s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/local_setup.dsv
+[0.171s] -- Symlinking: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/package.dsv
+[0.183s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/ament_index/resource_index/packages/hosbot_pkg
+[0.184s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/cmake/hosbot_pkgConfig.cmake
+[0.184s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/cmake/hosbot_pkgConfig-version.cmake
+[0.184s] -- Up-to-date symlink: /home/devrobot/hosbot_dev_ws/install/hosbot_pkg/share/hosbot_pkg/package.xml
+[0.187s] Invoked command in '/home/devrobot/hosbot_dev_ws/build/hosbot_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devrobot/hosbot_dev_ws/build/hosbot_pkg

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+c66a0b40eda70b04ba712044f5da6ac8 CMakeFiles/hosbot_pkg_uninstall

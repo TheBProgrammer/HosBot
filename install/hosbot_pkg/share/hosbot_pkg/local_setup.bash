@@ -1,0 +1,1 @@
+/home/devrobot/hosbot_dev_ws/build/hosbot_pkg/ament_cmake_environment_hooks/local_setup.bash
