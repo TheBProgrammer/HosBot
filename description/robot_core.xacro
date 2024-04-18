@@ -19,6 +19,10 @@
         <color rgba="0 0 0 1"/>
     </material>
 
+    <material name="red">
+        <color rgba="1 0 0 1"/>
+    </material>
+
     <!-- BASE LINK -->
 
     <link name="base_link">
@@ -75,7 +79,7 @@
         </visual>
         <collision>
             <geometry>
-                <cylinder radius="0.1" length="0.07"/>
+                <sphere radius="0.1"/>
             </geometry>
         </collision>
         <xacro:inertial_cylinder mass="1" length="0.07" radius="0.1">
@@ -107,7 +111,7 @@
         </visual>
         <collision>
             <geometry>
-                <cylinder radius="0.1" length="0.07"/>
+                <sphere radius="0.1"/>
             </geometry>
         </collision>
         <xacro:inertial_cylinder mass="1" length="0.07" radius="0.1">
@@ -140,7 +144,7 @@
         </visual>
         <collision>
             <geometry>
-                <cylinder radius="0.1" length="0.07"/>
+                <sphere radius="0.1"/>
             </geometry>
         </collision>
         <xacro:inertial_cylinder mass="1" length="0.07" radius="0.1">
@@ -172,7 +176,7 @@
         </visual>
         <collision>
             <geometry>
-                <cylinder radius="0.1" length="0.07"/>
+                <sphere radius="0.1"/>
             </geometry>
         </collision>
         <xacro:inertial_cylinder mass="1" length="0.07" radius="0.1">
