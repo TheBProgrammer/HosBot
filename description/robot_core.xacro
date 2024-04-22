@@ -156,7 +156,7 @@
         <material>Gazebo/Blue</material>
     </gazebo>
 
-    <!-- RIGHT FRONT WHEEL LINK -->
+   <!-- RIGHT FRONT WHEEL LINK --> 
 
     <joint name="right_front_wheel_joint" type="continuous">
         <parent link="base_link"/>
