@@ -22,7 +22,6 @@
     <!-- BASE LINK -->
 
     <link name="base_link">
-
     </link>
 
     <!-- CHASSIS LINK -->
@@ -30,19 +29,19 @@
     <joint name="chassis_joint" type="fixed">
         <parent link="base_link"/>
         <child link="chassis"/>
-        <origin xyz="-0.3 0 0"/>
+        <origin xyz="-0.35 0 0"/>
     </joint>
 
     <link name="chassis">
         <visual>
-            <origin xyz="0.3 0 0.225"/>
+            <origin xyz="0.35 0 0.225"/>
             <geometry>
                 <box size="0.7 0.6 0.45"/>
             </geometry>
             <material name="white"/>
         </visual>
         <collision>
-            <origin xyz="0.15 0 0.075"/>
+            <origin xyz="0.35 0 0.225"/>
             <geometry>
                 <box size="0.7 0.6 0.45"/>
             </geometry>
@@ -86,8 +85,6 @@
 
     <gazebo reference="left_back_wheel">
         <material>Gazebo/Blue</material>
-        <mu1 value="0.02"/>
-        <mu2 value="0.02"/>
     </gazebo>
 
     <!-- RIGHT BACK WHEEL LINK -->
@@ -120,8 +117,6 @@
 
     <gazebo reference="right_back_wheel">
         <material>Gazebo/Blue</material>
-        <mu1 value="0.02"/>
-        <mu2 value="0.02"/>
     </gazebo>
     
 
@@ -155,8 +150,6 @@
 
     <gazebo reference="left_front_wheel">
         <material>Gazebo/Blue</material>
-        <mu1 value="0.02"/>
-        <mu2 value="0.02"/>
     </gazebo>
 
     <!-- RIGHT FRONT WHEEL LINK -->
@@ -189,8 +182,6 @@
     
     <gazebo reference="right_front_wheel">
         <material>Gazebo/Blue</material>
-        <mu1 value="0.02"/>
-        <mu2 value="0.02"/>
     </gazebo>
 
 
